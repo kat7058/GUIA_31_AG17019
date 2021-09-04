@@ -1,0 +1,42 @@
+header {
+    color: darkolivegreen;
+    font-family: Georgia;
+}
+
+.container{
+    font-size: 1.4em;
+    font-family: Verdana;
+    min-height: calc(70vh);
+}
+
+main li a:hover{
+    background-color: lightseagreen;
+}
+
+main li a:visited{
+    color: maroon;
+}
+
+main li{
+    margin-top: 15px;
+}
+
+#Bienvenida{
+    margin-top: 20px;
+}
+
+footer{
+    background-color: midnightblue;
+    padding: 10px 0 10px 0;
+}
+
+footer p{
+    margin: 0;
+    padding: 0;
+    color: oldlace;
+    text-align: center;
+}
+
+footer a:visited{
+    color: lightpink;
+}

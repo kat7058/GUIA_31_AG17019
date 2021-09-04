@@ -1,0 +1,15 @@
+/* ejemplo1.css   AG17019  */
+fichero {background-color:red;}
+
+ficha {background-color:blue; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow; display:inline;}
+telefono {color:yellow; display:inline;}
+email {color:yellow; display:inline;}
+url{color:yellow; display:inline;}
+dui{color:yellow; display:inline;}
+isss{color:yellow; display:inline;}
+afp{color:yellow; display:inline;}
+
+direccion {color:yellow;font-size:1cm; display:none;}

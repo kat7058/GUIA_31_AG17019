@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+<!-- ejemplo1.xml  AG17019 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+
+</ficha>
+<ficha id="2" fechaingreso="03/09/2021">
+<nombre>Katerin</nombre>
+<apellido>Angel</apellido>
+<direccion>Santiago Nonualco,La paz</direccion>
+<telefono>70588082</telefono>
+<email>AG17019@ues.edu.sv</email>
+<url>miservidor.com</url>
+</ficha>
+<ficha id="3" fechaingreso="03/09/2021">
+<nombre>Julissa</nombre>
+<apellido>Garcia</apellido>
+<direccion>Santiago Nonualco,La paz</direccion>
+<telefono>70588082</telefono>
+<email>katerinag17019@gmail.com</email>
+<url>miservidor.com</url>
+<dui>524858567_4</dui>
+<isss>7042</isss>
+<afp>ag4578</afp>
+</ficha>
+</fichero>

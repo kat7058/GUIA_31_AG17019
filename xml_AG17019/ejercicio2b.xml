@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css" ?>
+<!-- ejemplo2.xml  AG17019 -->
+<pais nombre="El Salvador">
+<moneda nombre="Dolar">
+<codigo nombre="503">
+<idioma nombre="Español">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="La paz">
+<cabecera>Zacatecoluca</cabecera>
+<habitantes>1,200,000</habitantes>
+<altura>565 MSNM</altura>
+</departamento>
+<departamento id="3" nombre="La libertad">
+<cabecera>Santa Tecla</cabecera>
+<habitantes>747,770</habitantes>
+<altura>638 MSNM</altura>
+</departamento>
+</idioma>
+</codigo>
+</moneda>
+</pais>

@@ -1,0 +1,37 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"moneda":{
+			"@nombre":"Dolar",
+			"codigo":{
+				"@nombre":"503",
+				"idioma":{
+					"@nombre":"Español",
+					"departamento":[
+						{
+							"@id":"1",
+							"@nombre":"San Salvador",
+							"cabecera":"San Salvador",
+							"habitantes":"1,700,000",
+							"altura":"545 MSNM"
+						},
+						{
+							"@id":"2",
+							"@nombre":"La paz",
+							"cabecera":"Zacatecoluca",
+							"habitantes":"1,200,000",
+							"altura":"565 MSNM"
+						},
+						{
+							"@id":"3",
+							"@nombre":"La libertad",
+							"cabecera":"Santa Tecla",
+							"habitantes":"747,770",
+							"altura":"638 MSNM"
+						}
+					]
+				}
+			}
+		}
+	}
+}
